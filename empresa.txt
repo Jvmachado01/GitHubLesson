@@ -2,3 +2,4 @@ Apple
 Microsoft
 Oracle
 Samsung
+Sony
