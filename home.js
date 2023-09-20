@@ -3,3 +3,7 @@ function saudacoes() {
 }
 
 saudacoes();
+
+function pedeCafe() {
+    return "Quero café";
+}
