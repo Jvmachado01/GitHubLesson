@@ -7,3 +7,7 @@ saudacoes();
 function pedeCafe() {
     return "Quero café";
 }
+
+function pedeCha() {
+    return "Quero chá";
+}
